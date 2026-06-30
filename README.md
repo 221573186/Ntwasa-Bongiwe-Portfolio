@@ -72,7 +72,6 @@ Email: burer@cput.ac.za
 
 ## Mock Interview Video
 
- ## Mock Interview Video
 
 <iframe width="315" height="560" 
   src="https://www.youtube.com/embed/oX4cv_uA7ik" 
