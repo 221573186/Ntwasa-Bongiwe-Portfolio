@@ -17,7 +17,7 @@
 - Email: 221573186@mycput.ac.za
 - Address: 10 Dorset St, Cape Town, 8001
 
- ### Professional Summary
+### Professional Summary
 
 ICT in Communication Networks student with practical experience in configuring, maintaining and troubleshooting network systems. Skilled in TCP/IP, routing, switching, VLANs, DHCP and basic network security. Seeking an opportunity in any network related IT role to apply technical skills, gain hands-on industry exposure and contribute to reliable and secure communication networks.
 
