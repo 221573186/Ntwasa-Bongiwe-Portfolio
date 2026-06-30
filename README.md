@@ -72,7 +72,15 @@ Email: burer@cput.ac.za
 
 ## Mock Interview Video
 
-[Watch My Mock Interview Video](https://youtube.com/shorts/oX4cv_uA7ik?feature=share)
+ ## Mock Interview Video
+
+<iframe width="315" height="560" 
+  src="https://www.youtube.com/embed/oX4cv_uA7ik" 
+  title="Mock Interview" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 ---
 
@@ -125,12 +133,6 @@ I went to Settings → Pages, selected the `main` branch, and tested the live UR
 I successfully published my portfolio online and learned how to host websites using GitHub Pages.
 
 ---
-
-## Contact
-
-- GitHub: [github.com/221573186](https://github.com/221573186)
-- Email: 221573186@mycput.ac.za
-- Portfolio: [221573186.github.io/Bongiwe-Ntwasa-Portfolio-](https://221573186.github.io/Bongiwe-Ntwasa-Portfolio-)
 
 ---
 
