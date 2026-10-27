@@ -31,3 +31,5 @@ The project was divided into four one-week sprints. Here is the breakdown of the
 *   [ ] Review against mockups (0/7 completed)
 *(Note: Sprint 4 was planned for future development phases).*
 
+
+**Reflection:** The Sprint Backlog was where the pressure really set in. My role included tracking our tasks on Trello and ensuring the presentation slides were finalised by July 15. I learned that a sprint is a sprint—you cannot stretch time, you can only manage your scope and your speed. When we realised we were running over time during practice, we had to adapt quickly. This connects to the Agile Logbook entry for July 15, which honestly documents our time management struggle and how we overcame it to deliver the presentation.
