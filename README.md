@@ -1,4 +1,3 @@
-# Ntwasa-Bongiwe-Portfolio
 # Bongiwe Ntwasa - Digital Portfolio
 
 **Student Number:** 221573186  
@@ -134,5 +133,4 @@ I successfully published my portfolio online and learned how to host websites us
 ---
 
 
-*Portfolio created for PRP370S - Project Presentation 3*  
-*Cape Peninsula University of Technology - 2026*
+ 
