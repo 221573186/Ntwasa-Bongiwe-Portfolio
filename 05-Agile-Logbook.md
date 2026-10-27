@@ -96,7 +96,7 @@
 
 ---
 
-## 📅 Week 3: Architecture & Technical Planning
+## Week 3: Architecture & Technical Planning
 *Note: We had online meetings as a group throughout this week (4-7 August 2026).*
 
 ### Taskboard Status
