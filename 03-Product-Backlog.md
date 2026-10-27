@@ -22,3 +22,5 @@ This backlog represents the prioritized list of all features and tasks required 
 | Testing & Quality Assurance | Web | Low | Elam, Lilitha, Sikhutaze, Bongiwe |
 | Review against mockups | Web | Low | Bongiwe, Lilitha, Sikhutaze, Elam |
 
+
+**Reflection:** The Product Backlog kept our massive entrepreneurial project from feeling overwhelming. My role was helping to prioritise the list, ensuring that foundational items like the Brand Guide came before the actual website coding. Reflecting on this, I realised that Agile requires ruthless prioritisation. We couldn't do everything at once and learning to sequence our tasks taught me invaluable time management skills. This connects to the Sprint Backlog, where the top items from this list were pulled into action.
