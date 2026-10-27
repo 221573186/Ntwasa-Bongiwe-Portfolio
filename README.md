@@ -12,7 +12,7 @@
 
 ### Contact
 
-- Phone: +27-73-847-7582
+- Phone: 073-847-7582
 - Email: 221573186@mycput.ac.za
 - Address: 10 Dorset St, Cape Town, 8001
 
