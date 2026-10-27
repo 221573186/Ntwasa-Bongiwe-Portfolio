@@ -1,4 +1,3 @@
-## Bongiwe Ntwasa - Digital Portfolio
 
 **Student Number:** 221573186  
 **Module:** PRP370S - Project Presentation 3  
