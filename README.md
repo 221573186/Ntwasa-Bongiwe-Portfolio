@@ -1,4 +1,4 @@
-.# Bongiwe Ntwasa - Digital Portfolio
+## Bongiwe Ntwasa - Digital Portfolio
 
 **Student Number:** 221573186  
 **Module:** PRP370S - Project Presentation 3  
@@ -76,7 +76,7 @@ Email: burer@cput.ac.za
 
 ## Reflections
 
-### Reflection 1: Coding in Markdown (STAR Method)
+### Reflection 1: Coding in Markdown  
 
 **Situation**  
 I was required to create a digital portfolio using GitHub and Markdown language for the PRP370S module.
@@ -92,7 +92,7 @@ I successfully created a professional digital portfolio and gained practical ski
 
 ---
 
-### Reflection 2: Mock Interview Video (STAR Method)
+### Reflection 2: Mock Interview Video  
 
 **Situation**  
 As part of work readiness training, I was required to record a mock interview video.
@@ -108,8 +108,7 @@ I created a professional interview video, improved my confidence, and added a va
 
 ---
 
-### Reflection 3: Using GitHub Pages (STAR Method)
-
+### Reflection 3: Using GitHub Pages  
 **Situation**  
 I needed to publish my Markdown portfolio online so that examiners could access it.
 
@@ -124,9 +123,9 @@ I successfully published my portfolio online and learned how to host websites us
 
 ---
 
-
+ 
  # Ekhaya Connect: Affordable WISP Project
-**Module:** PRP371S - Entrepreneurial WIL Project
+ # Entrepreneurial WIL Project
 
 ##  Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
