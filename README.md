@@ -154,7 +154,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** Building the live website was a major milestone. It shifted our project from a theoretical business plan into a tangible reality. I learned how to translate user stories into a real digital experience. It taught me that launching a Minimum Viable Product (MVP) is better than waiting for perfection, as it allowed us to show the community exactly what Ekhaya Connect offers.
 
 ### 2. UI/UX Wireframes
-*   **Link:** [Ekhaya Connect Figma Wireframes](https://www.figma.com/design/hKfPAd7rTmUvl1RQEnLLLL/Untitled?node-id=0-1&t=KhAGD32s9aIEVIcd-1)
+*   **Link:** [Ekhaya Connect Figma Wireframes](Wireframes.jpeg)
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We had to strip away the colors and focus purely on layout. I realized that many residents in Khayelitsha use mobile phones, so we ensured our wireframes were mobile-first. This process saved us a lot of time later, as we caught design flaws before writing a single line of code.
 
 ### 3. Brand Guide
