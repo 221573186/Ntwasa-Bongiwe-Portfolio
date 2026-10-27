@@ -122,8 +122,8 @@ I successfully published my portfolio online and learned how to host websites us
 ---
 
  
- # Ekhaya Connect: Affordable WISP Project
- # Entrepreneurial WIL Project
+ ## Ekhaya Connect: Affordable WISP Project
+ ## Entrepreneurial WIL Project
 
 ##  Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
