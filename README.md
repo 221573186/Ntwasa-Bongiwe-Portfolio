@@ -135,8 +135,6 @@ I successfully published my portfolio online and learned how to host websites us
 
  # Ekhaya Connect: Affordable WISP Project
 **Module:** PRP371S - Entrepreneurial WIL Project
-**Student:** Bongiwe Ntwasa
-**Project:** Portfolio of Evidence (Agile)
 
 ##  Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
@@ -188,9 +186,11 @@ Click the links below to view the specific Agile artifacts and reflections:
 ![Trello Board](Trello.jpeg)
 ### Agile Logbook (Daily Standups)
 ## WEEK 1
-![Logbook ](Logbook-3.png)
+![Logbook ](Logbook3.png)
 ## WEEK 2
 ![Logbook1 Part 1](Logbook1.png)
-![Logbook1 Part 2](Logbook-2.jpeg) 
+![Logbook1 Part 2](Logbook2.jpeg)
+## WEEK 3
+![Logbook ](Logbook4.png)
 
 
