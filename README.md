@@ -151,7 +151,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 ##  Project Artefacts & Deliverables
 
 ### 1. The Live Website
-*  **[Click here to view the Ekhaya Connect Live Website](https://sikhutazejoseph.github.io/khayelitsha---connect/)**
+*   **Link:** [Ekhaya Connect Live Website](https://sikhutazejoseph.github.io/khayelitsha---connect/)
 *   **Reflection:** Building the live website was a major milestone. It shifted our project from a theoretical business plan into a tangible reality. I learned how to translate user stories into a real digital experience. It taught me that launching a Minimum Viable Product (MVP) is better than waiting for perfection, as it allowed us to show the community exactly what Ekhaya Connect offers.
 
 ### 2. UI/UX Wireframes
