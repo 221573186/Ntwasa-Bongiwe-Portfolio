@@ -119,11 +119,13 @@ I went to Settings → Pages, selected the `main` branch, and tested the live UR
 **Result**  
 I successfully published my portfolio online and learned how to host websites using GitHub Pages.
 
+---
+
 
  
- ## Ekhaya Connect: Affordable WISP Project
+ ##   Ekhaya Connect: Affordable WISP Project   
  
- ## Entrepreneurial WIL Project
+ ##   Entrepreneurial WIL Project
 
 ##  Project Overview
 **The Problem:** Khayelitsha faces a severe digital divide due to major telecom companies under-investing in the area. Residents and small business owners struggle daily with a lack of affordable, reliable home internet.
