@@ -123,6 +123,7 @@ I successfully published my portfolio online and learned how to host websites us
 
  
  ## Ekhaya Connect: Affordable WISP Project
+ 
  ## Entrepreneurial WIL Project
 
 ##  Project Overview
