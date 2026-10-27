@@ -119,7 +119,6 @@ I went to Settings → Pages, selected the `main` branch, and tested the live UR
 **Result**  
 I successfully published my portfolio online and learned how to host websites using GitHub Pages.
 
----
 
  
  ## Ekhaya Connect: Affordable WISP Project
