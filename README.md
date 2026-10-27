@@ -154,7 +154,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** Building the live website was a major milestone. It shifted our project from a theoretical business plan into a tangible reality. I learned how to translate user stories into a real digital experience. It taught me that launching a Minimum Viable Product (MVP) is better than waiting for perfection, as it allowed us to show the community exactly what Ekhaya Connect offers.
 
 ### 2. UI/UX Wireframes
-*   **Link:** [Ekhaya Connect Figma Wireframes](Wireframes.jpeg)
+*   **Link:** ![Ekhaya Connect Figma Wireframes](Wireframes.jpeg)
 *   **Reflection:** Creating wireframes taught me the importance of empathy in design. We had to strip away the colors and focus purely on layout. I realized that many residents in Khayelitsha use mobile phones, so we ensured our wireframes were mobile-first. This process saved us a lot of time later, as we caught design flaws before writing a single line of code.
 
 ### 3. Brand Guide
@@ -162,7 +162,7 @@ Click the links below to view the specific Agile artifacts and reflections:
 *   **Reflection:** The brand guide was a crucial learning step. It taught me that a business is more than just its product; it is an identity. We chose colors and fonts that resonate with the Khayelitsha community—aiming for a look that feels modern, trustworthy, and approachable.
 
 ### 4. Business Model Canvas
-*   **Link:** [Ekhaya Connect Business Model Canvas](https://canva.link/vi2pxlhuby6cnld)
+*   **Link:** ![Ekhaya Connect Business Model Canvas](Canvas.jpeg)
 *   **Reflection:** The Business Model Canvas was the "big picture" moment for our team. It forced me to confront the financial realities of our WISP idea. By mapping out our costs against our revenue, I understood the importance of scale and customer retention.
 
 ### 5. Solution Architecture
